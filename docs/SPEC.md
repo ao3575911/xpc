@@ -22,3 +22,8 @@ Sibling to [r2s](https://github.com/ao3575911/r2s) (research → rank → ship).
 - No agent runtime, lab hardware drivers, or stats engine
 - No ranking (that is r2s)
 - No inventing domain science inside the contract
+
+## Dogfood
+
+Worked cycles live under `examples/`. The primary real-world fill is
+`examples/gdk9-conserve-vs-naive/` (GDk9 conserved search vs naive baseline).
