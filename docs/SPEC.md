@@ -26,4 +26,4 @@ Sibling to [r2s](https://github.com/ao3575911/r2s) (research → rank → ship).
 ## Dogfood
 
 Worked cycles live under `examples/`. The primary real-world fill is
-`examples/gdk9-conserve-vs-naive/` (GDk9 conserved search vs naive baseline).
+`examples/gdk9-conserve-vs-naive/ (primary), `examples/gdk9-keysuite-compose/`` (GDk9 conserved search vs naive baseline).
